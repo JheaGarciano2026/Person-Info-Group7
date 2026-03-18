@@ -1,2 +1,5 @@
 name=input("Jhea")
 print("Hello" + name)
+input("13")
+input("Iligan City")
+print(name+ " Iligan City " + Barangay Bagong Silang) 
